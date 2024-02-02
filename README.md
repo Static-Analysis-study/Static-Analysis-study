@@ -1,8 +1,9 @@
 # Static-Analysis-study
 
 ## Dataset
-View the bug list in [Dataset](https://github.com/Static-Analysis-study/home/tree/main/Dataset)
+View the issue list in [Dataset](https://github.com/Static-Analysis-study/home/tree/main/Dataset)
 
+The dataset comprises six tables categorizing issues by tool (PMD, SpotBugs, SonarQube) and type (False Positives, FPs; False Negatives, FNs). Each table includes the issue's URL, its root cause, and input characteristics that led to the issue.
 ## Tool
 
 This tool consists of two main components: code transformation and tool execution with data analysis.You can download the tool from the following command:

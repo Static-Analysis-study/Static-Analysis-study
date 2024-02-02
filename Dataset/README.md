@@ -1,6 +1,6 @@
 ## PMD
 ### FP
-| ID | URL | Root Cause | Characteristic |
+| ID | URL | Root Cause | Input Characteristic |
 | --- | --- | ------- | ---------- |
 | 1  | https://github.com/pmd/pmd/issues/342 | Type resolution error or limitation | Same Identifiers |
 | 2  | https://github.com/pmd/pmd/issues/807 | Type resolution error or limitation | Same Identifiers |
