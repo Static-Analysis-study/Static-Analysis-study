@@ -1,4 +1,6 @@
 # Static-Analysis-study
+Release version
+[![DOI](https://zenodo.org/badge/673456947.svg)](https://zenodo.org/doi/10.5281/zenodo.11525129)
 
 ## Dataset
 View the issue list in [Dataset](https://github.com/Static-Analysis-study/home/tree/main/Dataset)
