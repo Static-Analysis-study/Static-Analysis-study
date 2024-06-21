@@ -353,6 +353,23 @@
 | 81  | https://community.sonarsource.com/t/fp-on-s3329-cipher-iv-unpredictable-on-decrypt-mode-if-iv-variable-declaration-is-split-from-definition/57803 | Missing cases which should be similarly handled | Variable Initialization and  Assignments |
 | 82  | https://community.sonarsource.com/t/s5860-names-of-regular-expressions-named-groups-should-be-used-when-they-re-actually/59186 | Missing cases which should be similarly handled | Method Calls and Field Accesses |
 | 83  | https://community.sonarsource.com/t/java-s1221-do-not-raise-issue-if-the-method-correctly-overrides-another/59887 | Inconsistent Rule Implementation | Spec |
+| 84  | https://community.sonarsource.com/t/s2386-possible-false-positive/38127/4 | Type resolution error or limitation | Method Calls and Field Accesses |
+| 85  | https://community.sonarsource.com/t/false-alarm-remove-this-unused-unknown-local-variable/35759/7 | Missing specific cases | Loop |
+| 86  | https://community.sonarsource.com/t/false-positives-for-java-s1854/40231/3 | Missing specific cases | Miscellaneous |
+| 87  | https://community.sonarsource.com/t/s5860-names-of-regular-expressions-named-groups-should-be-used-when-theyre-actually/38370/2 | Missing specific cases | Miscellaneous |
+| 88  | https://community.sonarsource.com/t/false-positive-in-java-s1193-dont-use-instanceof-in-catch-blocks/29574/3 | Missing specific cases | Miscellaneous |
+| 89  | https://community.sonarsource.com/t/false-positive-for-s2055-when-serializationproxy-pattern-is-used/18994/2 | Missing specific cases | Miscellaneous |
+| 90  | https://community.sonarsource.com/t/eclipses-nonnullbydefault-annotation-should-also-check-fields/39288/5 | Symbolic execution error or limitation | Annotations |
+| 91  | https://community.sonarsource.com/t/s1258-false-positive-on-missing-constructor-for-classes-with-lomboks-data-annotation/41511/3 | Missing cases which should be similarly handled | Annotations |
+| 92  | https://community.sonarsource.com/t/apache-collections-lang3-arrayutils-isnotempty-null-pointer-exception/44760 | Missing cases which should be similarly handled | Java External Libraries |
+| 93  | https://community.sonarsource.com/t/value-is-nullable-here-incorrectly-reported-after-calling-method-that-throws/8853 | Missing cases which should be similarly handled | Method Calls and Field Accesses |
+| 94  | https://community.sonarsource.com/t/classes-to-exclude-in-java-s1191/61343 | Missing cases that should be whitelisted | Java External Libraries |
+| 95  | https://community.sonarsource.com/t/false-positive-for-eclipse-sonarlint-java-s2142-interruptedexception-should-not-be-ignored/41150/8 | Flawed Rule Specification | Spec |
+| 96  | https://community.sonarsource.com/t/bogus-type-change-suggestion/23489/7 | Flawed Rule Specification | Spec |
+| 97  | https://community.sonarsource.com/t/squid-uselessimportcheck-false-positive-for-constants-used-in-namedquery-annotation/12675 | Mishandling Intermediate Representations | Annotations |
+| 98  | https://community.sonarsource.com/t/java-14-enhanced-switch-statement-alerts-to-rule-java-s1121/57988/4 | Unhandled Language Features | Switch |
+| 99  | https://community.sonarsource.com/t/s2386-mutable-fields-should-not-be-public-static/62823/6 | Unhandled Language Features | Miscellaneous |
+| 100 | https://community.sonarsource.com/t/junit5-inner-test-classes-should-be-annotated-with-nested-should-not-apply-to-abstract-inner-classes/54252 | Unhandled Language Features | Abstract Classes |
 
 ## FN
 | ID | URL | Root Cause | Characteristic |
